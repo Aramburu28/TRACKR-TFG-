@@ -1,0 +1,873 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\mainpage - copia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\mainpage - copia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\33.0.95\\targets\\Microsoft.Android.Sdk.Tooling.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\mainpage - copia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\mainpage - copia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\points2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\points2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\splash\\splash.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\images\\cog.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\images\\cog.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\images\\coglight.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\images\\coglight.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\images\\cogdark.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\images\\cogdark.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\customtabbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\customtabbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\autobindableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\autobindableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\points2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\points2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\displaycodepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\displaycodepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\scanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\scanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\displaycodepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\displaycodepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\tabbedpg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\tabbedpg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\tabbedpg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\tabbedpg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\4.0.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\3.1.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\todouserdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\todouserdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\testpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|c:\\users\\javier\\desktop\\tfg\\points2\\points2\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{773FF3DC-610F-47A9-B073-BB5099EF77C9}|Points2\\Points2.csproj|solutionrelative:points2\\testpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Group.cs",
+              "RelativeDocumentMoniker": "Points2\\Group.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Group.cs",
+              "RelativeToolTip": "Points2\\Group.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:56:28.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage - Copia.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage - Copia.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\MainPage - Copia.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage - Copia.xaml.cs",
+              "RelativeToolTip": "Points2\\MainPage - Copia.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIBJwBwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:08:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage.xaml.cs",
+              "RelativeToolTip": "Points2\\MainPage.xaml.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAIwCQBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:55:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage.xaml",
+              "RelativeToolTip": "Points2\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T06:55:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Points2\\SettingsPage.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:19:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\SettingsPage.xaml",
+              "RelativeToolTip": "Points2\\SettingsPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T08:18:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\NewPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\NewPage1.xaml.cs",
+              "RelativeToolTip": "Points2\\NewPage1.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:13:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage - Copia.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage - Copia.xaml",
+              "RelativeDocumentMoniker": "Points2\\MainPage - Copia.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MainPage - Copia.xaml",
+              "RelativeToolTip": "Points2\\MainPage - Copia.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T08:55:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "Points2\\NewPage1.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\NewPage1.xaml",
+              "RelativeToolTip": "Points2\\NewPage1.xaml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T07:10:08.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Android.Sdk.Tooling.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\33.0.95\\targets\\Microsoft.Android.Sdk.Tooling.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\33.0.95\\targets\\Microsoft.Android.Sdk.Tooling.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\33.0.95\\targets\\Microsoft.Android.Sdk.Tooling.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\33.0.95\\targets\\Microsoft.Android.Sdk.Tooling.targets",
+              "ViewState": "AQIAABEAAAAAAAAAAAAjwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-19T00:36:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "Points2\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "Points2\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-02T10:23:33.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ApiPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\ApiPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ApiPage.xaml.cs",
+              "RelativeToolTip": "Points2\\ApiPage.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:59:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\User.cs",
+              "RelativeDocumentMoniker": "Points2\\User.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\User.cs",
+              "RelativeToolTip": "Points2\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:20:21.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UserGroup.cs",
+              "RelativeDocumentMoniker": "Points2\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UserGroup.cs",
+              "RelativeToolTip": "Points2\\UserGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:57:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Constants.cs",
+              "RelativeDocumentMoniker": "Points2\\Constants.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Constants.cs",
+              "RelativeToolTip": "Points2\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:11:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\App.xaml",
+              "RelativeDocumentMoniker": "Points2\\App.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\App.xaml",
+              "RelativeToolTip": "Points2\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T07:45:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AppShell.xaml.cs",
+              "RelativeToolTip": "Points2\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:58:35.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\App.xaml.cs",
+              "RelativeToolTip": "Points2\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:45:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ApiPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\ApiPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ApiPage.xaml",
+              "RelativeToolTip": "Points2\\ApiPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T08:55:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Points2\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\MauiProgram.cs",
+              "RelativeToolTip": "Points2\\MauiProgram.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:45:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomTabBar.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\CustomTabBar.cs",
+              "RelativeDocumentMoniker": "Points2\\CustomTabBar.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\CustomTabBar.cs",
+              "RelativeToolTip": "Points2\\CustomTabBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:42:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "splash.svg",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Splash\\splash.svg",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Splash\\splash.svg",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Splash\\splash.svg",
+              "RelativeToolTip": "Points2\\Resources\\Splash\\splash.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-02T10:30:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Points2.csproj",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Points2.csproj",
+              "RelativeDocumentMoniker": "Points2\\Points2.csproj",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Points2.csproj",
+              "RelativeToolTip": "Points2\\Points2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T06:32:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "cog.png",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\cog.png",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Images\\cog.png",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\cog.png",
+              "RelativeToolTip": "Points2\\Resources\\Images\\cog.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T11:11:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cogdark.png",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\cogdark.png",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Images\\cogdark.png",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\cogdark.png",
+              "RelativeToolTip": "Points2\\Resources\\Images\\cogdark.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T11:12:00.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "coglight.png",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\coglight.png",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Images\\coglight.png",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Images\\coglight.png",
+              "RelativeToolTip": "Points2\\Resources\\Images\\coglight.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T11:12:02.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Points2\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AppShell.xaml",
+              "RelativeToolTip": "Points2\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T06:33:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Points2\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T10:45:45.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoBindableAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AutoBindableAttribute.cs",
+              "RelativeDocumentMoniker": "Points2\\AutoBindableAttribute.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\AutoBindableAttribute.cs",
+              "RelativeToolTip": "Points2\\AutoBindableAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:43:03.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Points2\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Points2\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:06:32.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Points2\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Points2\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-02T10:45:27.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Points2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Points2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T10:46:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\UsersPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UsersPage.xaml",
+              "RelativeToolTip": "Points2\\UsersPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T06:51:26.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Points2",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Points2.csproj",
+              "RelativeDocumentMoniker": "Points2\\Points2.csproj",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Points2.csproj",
+              "RelativeToolTip": "Points2\\Points2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T06:22:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DisplayCodePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\DisplayCodePage.xaml",
+              "RelativeDocumentMoniker": "Points2\\DisplayCodePage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\DisplayCodePage.xaml",
+              "RelativeToolTip": "Points2\\DisplayCodePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T10:33:04.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScanPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ScanPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\ScanPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ScanPage.xaml.cs",
+              "RelativeToolTip": "Points2\\ScanPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:29:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScanPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ScanPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\ScanPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\ScanPage.xaml",
+              "RelativeToolTip": "Points2\\ScanPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T10:23:22.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Points2\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Points2\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T08:40:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "Points2\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "Points2\\Platforms\\iOS\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T10:06:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DisplayCodePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\DisplayCodePage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\DisplayCodePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\DisplayCodePage.xaml.cs",
+              "RelativeToolTip": "Points2\\DisplayCodePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:33:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\UsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\UsersPage.xaml.cs",
+              "RelativeToolTip": "Points2\\UsersPage.xaml.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv60AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:51:34.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TabbedPg.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TabbedPg.xaml",
+              "RelativeDocumentMoniker": "Points2\\TabbedPg.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TabbedPg.xaml",
+              "RelativeToolTip": "Points2\\TabbedPg.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAACBjwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T08:23:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TabbedPg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TabbedPg.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\TabbedPg.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TabbedPg.xaml.cs",
+              "RelativeToolTip": "Points2\\TabbedPg.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:19:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\3.1.0\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\3.1.0\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\3.1.0\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\3.1.0\\ReadMe.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-02T11:55:49.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\4.0.0\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\4.0.0\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\4.0.0\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\adm_tel_l\\.nuget\\packages\\communitytoolkit.maui\\4.0.0\\ReadMe.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-02T12:08:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Points2\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Points2\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:46:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Points2\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Points2\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:46:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "Points2\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "Points2\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-02T10:23:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TodoUserDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TodoUserDatabase.cs",
+              "RelativeDocumentMoniker": "Points2\\TodoUserDatabase.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TodoUserDatabase.cs",
+              "RelativeToolTip": "Points2\\TodoUserDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:16:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points2\\TestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TestPage.xaml.cs",
+              "RelativeToolTip": "Points2\\TestPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:32:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TestPage.xaml",
+              "RelativeDocumentMoniker": "Points2\\TestPage.xaml",
+              "ToolTip": "C:\\Users\\Javier\\Desktop\\TFG\\Points2\\Points2\\TestPage.xaml",
+              "RelativeToolTip": "Points2\\TestPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T07:31:56.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\scanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\mainpage - copia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\mainpage - copia.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\scanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\scanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\displaycodepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\displaycodepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\displaycodepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\displaycodepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\mainpage - copia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\mainpage - copia.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\tabbedpg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\tabbedpg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\tabbedpg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\tabbedpg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\points.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\points.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|c:\\users\\pract.rd.app.26\\desktop\\points\\points\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6DE9D9AC-1E83-4744-8D95-A25DBE8670E9}|Points\\Points.csproj|solutionrelative:points\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage.xaml.cs",
+              "RelativeToolTip": "Points\\MainPage.xaml.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAuwJ0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:57:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayCodePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\DisplayCodePage.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\DisplayCodePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\DisplayCodePage.xaml.cs",
+              "RelativeToolTip": "Points\\DisplayCodePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:14:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage - Copia.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage - Copia.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\MainPage - Copia.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage - Copia.xaml.cs",
+              "RelativeToolTip": "Points\\MainPage - Copia.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:55:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScanPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\ScanPage.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\ScanPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\ScanPage.xaml.cs*",
+              "RelativeToolTip": "Points\\ScanPage.xaml.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:15:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScanPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\ScanPage.xaml",
+              "RelativeDocumentMoniker": "Points\\ScanPage.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\ScanPage.xaml",
+              "RelativeToolTip": "Points\\ScanPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T08:13:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Points\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MauiProgram.cs",
+              "RelativeToolTip": "Points\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:15:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayCodePage.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\DisplayCodePage.xaml",
+              "RelativeDocumentMoniker": "Points\\DisplayCodePage.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\DisplayCodePage.xaml",
+              "RelativeToolTip": "Points\\DisplayCodePage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T11:14:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage - Copia.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage - Copia.xaml",
+              "RelativeDocumentMoniker": "Points\\MainPage - Copia.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage - Copia.xaml",
+              "RelativeToolTip": "Points\\MainPage - Copia.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T07:55:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Points\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\MainPage.xaml",
+              "RelativeToolTip": "Points\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T11:56:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Points\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Points\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-18T11:16:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabbedPg.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\TabbedPg.xaml",
+              "RelativeDocumentMoniker": "Points\\TabbedPg.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\TabbedPg.xaml",
+              "RelativeToolTip": "Points\\TabbedPg.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T05:50:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TabbedPg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\TabbedPg.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\TabbedPg.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\TabbedPg.xaml.cs",
+              "RelativeToolTip": "Points\\TabbedPg.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:56:37.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Points\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\AppShell.xaml",
+              "RelativeToolTip": "Points\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T08:03:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Points\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\App.xaml.cs",
+              "RelativeToolTip": "Points\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:55:46.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\App.xaml",
+              "RelativeDocumentMoniker": "Points\\App.xaml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\App.xaml",
+              "RelativeToolTip": "Points\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T12:24:39.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Points\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Points\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:24:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Points\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Points\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:24:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Points\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Points\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-18T12:24:21.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Points\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Points\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T12:24:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Points.csproj",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Points.csproj",
+              "RelativeDocumentMoniker": "Points\\Points.csproj",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\Points.csproj",
+              "RelativeToolTip": "Points\\Points.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T12:09:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\pract.rd.app.26\\Desktop\\Points\\Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml",
+              "RelativeToolTip": "Points\\obj\\Debug\\net7.0-android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-18T12:00:05.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+using SQLite;
+
+namespace Points;
+
+public partial class TabbedPg : TabbedPage
+{
+    SQLiteConnection conn = new SQLiteConnection(Constants.DatabasePath);
+	List<string> columns = new List<string>();
+	string username;
+    public TabbedPg()
+	{
+		InitializeComponent();
+		BarBackgroundColor= Colors.White;
+		BarTextColor= Colors.Black;
+        conn.CreateTable<User>();
+    }
+
+    private void UName_Completed(object sender, EventArgs e)
+    {
+       username = UName.Text;
+        
+    }
+
+    private void Picker_Loaded(object sender, EventArgs e)
+    {
+		List<User> list = conn.Table<User>().ToList();
+		List<string> names = (from us in list select us.Username).ToList();
+		if(names.Count > 0) 
+		{
+			UName.IsVisible = false;
+            Switch.IsVisible = true;
+		}
+		else
+		{
+			pik.IsVisible = false;
+		}
+		pik.ItemsSource = names;
+        if(names.Count != 0)
+        {
+        pik.SelectedItem = names[0];
+        }
+    }
+
+    private void Log_Clicked(object sender, EventArgs e)
+    {
+
+        conn.CreateTable<User>();
+        User us = new User();
+        List<User> list = conn.Table<User>().ToList();
+        List<string> names = (from user in list select us.Username).ToList();
+        if ((from lo in list where lo.Username == username select lo).Count() == 0)
+        {
+
+            us.Username = username;
+            conn.Insert(us);
+        }
+        if (username != "")
+        {
+            List<User> list2 = conn.Table<User>().ToList();
+            User user = (from  lo in list2 where lo.Username == username select lo).FirstOrDefault();
+            Admin.IsVisible = true;
+            Admin.IsEnabled = true;
+            Users.IsVisible = true;
+            Users.IsEnabled= true;
+            User.IsVisible = true;
+            User.IsEnabled = true;
+            LogIn.IsEnabled = false;
+            LogIn.IsVisible = false;
+            this.Children.RemoveAt(0);
+            this.Children[1].Title = username + " Groups";
+            this.Children[0].Title = "Admin(" + user.Id + ") Groups";
+        }
+        
+    }
+
+    private void pik_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        username = pik.SelectedItem as string;
+    }
+
+    private void Switch_Clicked(object sender, EventArgs e)
+    {
+        if(UName.IsVisible)
+        {
+            UName.IsVisible = false;
+            pik.IsVisible = true;
+            Switch.Text = "Log in as a new user";
+        }
+        else
+        {
+            UName.IsVisible = true;
+            pik.IsVisible = false;
+            Switch.Text = "Log in as an existing user";
+        }
+
+    }
+
+    private void Wipe_Clicked(object sender, EventArgs e)
+    {
+        
+        conn.DropTable<User>();
+        conn.DropTable<Group>();
+        conn.DropTable<UserGroup>();
+    }
+}

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+       xmlns:local="clr-namespace:Points"
+             x:Class="Points.NewPage1">
+    <Shell.TitleView>
+        <HorizontalStackLayout>
+            
+      
+        </HorizontalStackLayout>
+        
+    </Shell.TitleView>
+    <Shell.Resources>
+        <Style TargetType="Shell"
+               x:Key="Green">
+            <Setter Property="Shell.TabBarBackgroundColor"
+                    Value="LightPink"/>
+        </Style>
+    </Shell.Resources>
+    <Shell.Style>
+        <Style TargetType="Shell">
+            <Setter Property="Shell.TabBarBackgroundColor"
+            Value="LightPink"/>
+            <Setter Property="Shell.TabBarTitleColor"
+            Value="LightPink"/>
+            <Setter Property="Shell.TabBarUnselectedColor"
+                    Value="White"></Setter>
+        
+        </Style>
+        <!--<Style TargetType="Label"
+               Class="FlyoutItemLabelStyle">
+            <Setter Property="FontSize"
+                    Value="20"/>
+        </Style>-->
+    </Shell.Style>
+    <FlyoutItem
+        FlyoutDisplayOptions="AsMultipleItems">
+
+        <!--<TabBar>-->
+        <Tab Title="LOG IN"
+             x:Name="Tab1">
+        
+            <ContentPage
+     x:Name="LogIn"
+        >
+                <ContentPage.Behaviors>
+                    <toolkit:StatusBarBehavior StatusBarColor="LightPink"/>
+                </ContentPage.Behaviors>
+                <VerticalStackLayout>
+                    <Entry
+         Placeholder="Enter your username"
+         x:Name="UName"
+         Completed="UName_Completed"
+         
+         HorizontalOptions="Center"
+         VerticalOptions="Center"
+         TextChanged="UName_Completed"
+         />
+                    <Picker ItemsSource="{Binding columns}"
+             Loaded="Picker_Loaded"
+             x:Name="pik"
+             SelectedIndexChanged="pik_SelectedIndexChanged"/>
+                    <Button x:Name="Log"
+             Clicked="Log_Clicked"
+             Text="Log in"/>
+                    <Button x:Name="Switch"
+                 Text="Log in as new user"
+                 Clicked="Switch_Clicked"
+                 IsVisible="false"/>
+                    <!--<Button x:Name="Wipe"
+                 Text="Wipe database"
+                 Clicked="Wipe_Clicked"/>-->
+                </VerticalStackLayout>
+            </ContentPage>
+        </Tab>
+        <Tab Title="GROUPS"
+             Icon="{AppThemeBinding Light=girllight.png, Dark=girldark.png }"
+             x:Name="Tab2">
+            <ShellContent
+                Title="Admin Groups">
+                <local:AdminPage
+                    IsEnabled="False"
+                    IsVisible="false"
+     x:Name="Admin"/>
+            </ShellContent>
+            <!--<Tab Title="USER"
+             x:Name="Tab3">-->
+            <ShellContent
+            Title="User Groups">
+
+
+                <local:UserPage
+    IsVisible="false"
+                    IsEnabled="False"
+                
+     x:Name="User"/>
+                <!--</Tab>-->
+            </ShellContent>
+        </Tab>
+        <Tab x:Name="Settings"
+             Title="Settings"
+             Icon="{AppThemeBinding Light=coglight.png, Dark=cogdark.png }">
+            <local:SettingsPage>
+
+            </local:SettingsPage>
+        </Tab>
+        <Tab x:Name="Api"
+             Title="Api"
+              IsEnabled="False"
+ IsVisible="false"
+          
+             >
+            <local:ApiPage
+               
+               >
+                
+            </local:ApiPage>
+        </Tab>
+        <!--</TabBar>-->
+    </FlyoutItem>
+
+</Shell>

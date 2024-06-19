@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI.Controls"
+             x:Class="Points.AdminPage"
+             Title="Admin Groups"
+             Loaded="Pre_Clicked">
+
+    <ScrollView VerticalOptions="FillAndExpand"
+               >
+       
+        <Grid
+            
+            RowSpacing="3"
+             x:Name="Base"
+             >
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition/>
+                <RowDefinition />
+                <RowDefinition />
+               
+
+
+
+
+            </Grid.RowDefinitions>
+           
+            <Grid BackgroundColor="Grey"
+                  HorizontalOptions="Fill"
+                  x:Name="Group"
+                 >
+                <Button Text="Scan QR"
+           BackgroundColor="White"
+           TextColor="Black"
+x:Name="Btn"
+        HorizontalOptions="End"
+                        VerticalOptions="Start"
+Clicked="Btn_Clicked"/>
+                <!--<Button Text="Redeem points"
+                        x:Name="Red"
+                        Clicked="Red_Clicked"
+                        VerticalOptions="End"
+                        HorizontalOptions="Start"/>-->
+                <Button Text="Add Points(Showcase)"
+                        Background="White"
+                        TextColor="Black"
+                        x:Name="Add"
+                        HorizontalOptions="Start"
+                        VerticalOptions="Start"
+                        Clicked="Add_Clicked"/>
+                <Label
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    x:Name="Tittle"
+                    Text="Admin Groups"
+                    />
+            </Grid>
+            <Grid 
+                  Grid.Row="1">
+                <!--<Button VerticalOptions="Start"
+        HorizontalOptions="End"
+        Text="Insert Previous Group"
+        x:Name="Pre"
+        Clicked="Pre_Clicked"/>-->
+                <Button VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Text="Create"
+                        x:Name="Create"
+                        Clicked="Create_Clicked"/>
+            </Grid>
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

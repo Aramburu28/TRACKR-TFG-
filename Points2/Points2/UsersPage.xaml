@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Points.UsersPage"
+             Title="UsersPage">
+    <ScrollView VerticalOptions="FillAndExpand"
+               >
+
+        <Grid
+             x:Name="Base"
+              BackgroundColor="White">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition/>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition/>
+
+
+
+
+            </Grid.RowDefinitions>
+
+            <Grid BackgroundColor="Grey"
+                  HorizontalOptions="Fill"
+                  x:Name="Group"
+                 >
+                <Button Text="Scan QR"
+           BackgroundColor="White"
+           TextColor="Black"
+x:Name="Btn"
+        HorizontalOptions="End"
+                        VerticalOptions="Start"
+Clicked="Btn_Clicked"/>
+                <Button Text="Add Points"
+                        Background="White"
+                        TextColor="Black"
+                        x:Name="Add"
+                        HorizontalOptions="Start"
+                        VerticalOptions="Start"
+                        Clicked="Add_Clicked"/>
+                <Label
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    x:Name="Tittle"
+                    Text="Grupos Moderados"
+                    />
+            </Grid>
+            <Grid 
+                  Grid.Row="1">
+                <Button VerticalOptions="Start"
+        HorizontalOptions="End"
+        Text="Insert Previous Group"
+        x:Name="Pre"
+        Clicked="Pre_Clicked"/>
+                <Button VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Text="Create"
+                        x:Name="Create"
+                        Clicked="Create_Clicked"/>
+            </Grid>
+        </Grid>
+    </ScrollView>
+</ContentPage>

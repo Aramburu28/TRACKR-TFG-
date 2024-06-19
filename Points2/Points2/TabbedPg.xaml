@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:Points"
+            xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="Points.TabbedPg"
+            SelectedTabColor="GreenYellow"
+            UnselectedTabColor="GreenYellow"
+            >
+    
+    
+    <ContentPage
+        x:Name="LogIn">
+        <ContentPage.Behaviors>
+            <toolkit:StatusBarBehavior StatusBarColor="GreenYellow"/>
+        </ContentPage.Behaviors>     
+        <VerticalStackLayout>
+        <Entry
+            Placeholder="Enter your username"
+            x:Name="UName"
+            Completed="UName_Completed"
+            BackgroundColor="White"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            TextChanged="UName_Completed"
+            TextColor="Black"/>
+        <Picker ItemsSource="{Binding columns}"
+                Loaded="Picker_Loaded"
+                x:Name="pik"
+                SelectedIndexChanged="pik_SelectedIndexChanged"/>
+            <Button x:Name="Log"
+                Clicked="Log_Clicked"
+                Text="Log in"/>
+            <Button x:Name="Switch"
+                    Text="Log in as new user"
+                    Clicked="Switch_Clicked"
+                    IsVisible="false"/>
+            <Button x:Name="Wipe"
+                    Text="Wipe database"
+                    Clicked="Wipe_Clicked"/>
+        </VerticalStackLayout>
+    </ContentPage>
+    <local:AdminPage
+        IsVisible="false"
+        IsEnabled="False"
+        x:Name="Admin"/>
+    <local:UserPage
+        IsVisible="false"
+        IsEnabled="false"
+        x:Name="User"/>
+    <local:UsersPage
+        IsVisible="False"
+        IsEnabled="False"
+        x:Name="Users"/>
+</TabbedPage>

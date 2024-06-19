@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Points.SettingsPage"
+             Title="SettingsPage">
+    <VerticalStackLayout>
+        <HorizontalStackLayout>
+            <Label
+            Text="Light/Dark Mode"/>
+            <Image x:Name="ModeIcon"
+                   HeightRequest="80"
+                   WidthRequest="80"
+        Source="{AppThemeBinding Light=sun.png, Dark=moon.pgn}"/>
+        <Switch IsToggled="False"
+         Toggled="Mode_Toggled"
+         x:Name="Mode"
+         />
+        </HorizontalStackLayout>
+        <Button x:Name="Wipe"
+Text="Wipe database"
+Clicked="Wipe_Clicked"
+                ImageSource="{AppThemeBinding Light=canlight.png, Dark=candark.png }"
+                 Margin="8,8,8,8"
+                />
+        <Button x:Name="FinDB"
+                Clicked="FinDB_Clicked"
+                Text="Get data file location"
+                ImageSource="{AppThemeBinding Light=glasslight.png, Dark=glassdark.png }"
+                 Margin="8,8,8,8"/>
+        <!--<Button x:Name="Lout"
+                Text="Log out"
+                Clicked="Lout_Clicked"
+                Margin="8,8,8,8"
+                ImageSource="{AppThemeBinding Light=outlight.png, Dark=outdark.png }"/>-->
+        <Button x:Name="GenFile"
+                Clicked="GenFile_Clicked"
+                Text="Share score file"
+                 Margin="8,8,8,8"
+                ImageSource="{AppThemeBinding Light=sharelight.png, Dark=sharedark.png }"
+                />
+    </VerticalStackLayout>
+</ContentPage>

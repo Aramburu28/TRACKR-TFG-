@@ -1,0 +1,101 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Points
+build_property.ProjectDir = C:\Users\Javier\Desktop\TFG\Points2\Points2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/ApiPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.ApiPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ApiPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ApiPage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/DisplayCodePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.DisplayCodePage.xaml
+build_metadata.AdditionalFiles.TargetPath = DisplayCodePage.xaml
+build_metadata.AdditionalFiles.RelativePath = DisplayCodePage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/MainPage - Copia.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.MainPage - Copia.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage - Copia.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage - Copia.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/ScanPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.ScanPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ScanPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ScanPage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SettingsPage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/TabbedPg.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.TabbedPg.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedPg.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedPg.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/TestPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.TestPage.xaml
+build_metadata.AdditionalFiles.TargetPath = TestPage.xaml
+build_metadata.AdditionalFiles.RelativePath = TestPage.xaml
+
+[C:/Users/Javier/Desktop/TFG/Points2/Points2/UsersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Points.UsersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UsersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UsersPage.xaml

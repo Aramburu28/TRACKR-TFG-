@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             x:Class="Points.UserPage"
+             Title="User Groups">
+
+    <ScrollView VerticalOptions="FillAndExpand">
+       
+        <Grid
+             x:Name="Basee"
+             
+            RowSpacing="5">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition/>
+
+                
+                
+            </Grid.RowDefinitions>
+            <Grid BackgroundColor="Grey"
+                  HorizontalOptions="Fill"
+                  x:Name="Group"
+                 >
+                <Button Text="Generate QR Code"
+           BackgroundColor="White"
+           TextColor="Black"
+x:Name="Btn"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+           
+Clicked="Btn_Clicked"/>
+                <!--<Label
+                    x:Name="Titulo"
+                    Text="Grupos Atendidos"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    />-->
+            </Grid>
+            <!--<Grid 
+                  Grid.Row="1">
+                <Button VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Text="Create"
+                        x:Name="Create"
+                        Clicked="Create_Clicked"/>
+            </Grid>-->
+           
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
